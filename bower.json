@@ -1,6 +1,6 @@
 {
   "name": "react-async",
-  "version": "0.9.4",
+  "version": "1.0.2",
   "authors": [
     "Andrey Popp <8mayday@gmail.com>"
   ],
@@ -25,6 +25,6 @@
     "tests"
   ],
   "dependencies": {
-    "react": "~0.10.0"
+    "react": "~0.11.0"
   }
 }
